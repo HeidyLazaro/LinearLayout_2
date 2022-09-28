@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Heidy Lázaro Ayala</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="bio">Mi nombre es Heidy.
+    \n\n Hola a todos.
+    \n\n Yo cuento con la edad de 21 años.
+    \n\n Actualmente curso el 7mo semestre de la carrera
+    \n\n Sistemas computacionales, en el ITSUR.
+    \n\n Pertenezco al pueblo de Cuitzeo, Michoacan;
+    \n\n aunque nací en Moroleon, Guanajuato, el 15 de sepetiembre
+    \n\n Yo no recido como "foranea" en uriangato, pero pareciera que si.</string>
+</resources>
